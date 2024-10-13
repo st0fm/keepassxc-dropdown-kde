@@ -1,7 +1,7 @@
 Based on: https://github.com/vgobbo/alacritty-dropdown-kde
 
 # KeepassXC Dropdown
-Win script that adds drop-down feature to Alacritty.
+Win script that adds drop-down feature to KeepassXC.
 
 It provides:
 - Display/hide KeepassXC when `Meta+x` is pressed.
