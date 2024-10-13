@@ -1,0 +1,22 @@
+{
+	"KPlugin": {
+		"Name": "KeepassXC Drop-Down",
+		"Description": "Adds drop-down functionallity to KeepassXC.",
+		"Icon": "preferences-system-windows",
+
+		"Authors" : [
+			{
+				"Email": "st0fm@lowsec.net",
+				"Name": "st0fm"
+			}
+		],
+		"Id": "keepassxc-dropdown",
+		"Version": "0.3.0",
+		"License": "GPL",
+		"Website": "..."
+	},
+
+	"X-Plasma-API": "javascript",
+	"X-Plasma-MainScript": "code/main.js",
+	"KPackageStructure": "KWin/Script"
+}
